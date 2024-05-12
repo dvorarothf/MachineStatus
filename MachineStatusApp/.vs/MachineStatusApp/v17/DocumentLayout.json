@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F40E53-7FFF-46D0-873F-6BD62B98094F}|..\\MachineStatusBL\\MachineStatusBL.csproj|c:\\users\\user\\documents\\github\\temp\\machinestatus\\machinestatusbl\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\MachineStatus\\MachineStatusBL\\MachineStatusBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C99390-E58D-4226-A38B-C22CDBE9F149}|MachineStatusApp.csproj|C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\machinestatusview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69C99390-E58D-4226-A38B-C22CDBE9F149}|MachineStatusApp.csproj|solutionrelative:machinestatusview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C99390-E58D-4226-A38B-C22CDBE9F149}|MachineStatusApp.csproj|C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\machinestatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C99390-E58D-4226-A38B-C22CDBE9F149}|MachineStatusApp.csproj|solutionrelative:machinestatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C99390-E58D-4226-A38B-C22CDBE9F149}|MachineStatusApp.csproj|C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\statusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C99390-E58D-4226-A38B-C22CDBE9F149}|MachineStatusApp.csproj|solutionrelative:statusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\MachineStatus\\MachineStatusDAL\\Models\\MachineStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusBL\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "..\\MachineStatusBL\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusBL\\JsonHelper.cs",
+              "RelativeToolTip": "..\\MachineStatusBL\\JsonHelper.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:41:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MachineStatusView.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\MachineStatusView.xaml",
+              "RelativeDocumentMoniker": "MachineStatusView.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\MachineStatusView.xaml",
+              "RelativeToolTip": "MachineStatusView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T09:59:00.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineStatusBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MachineStatus\\MachineStatusBL\\MachineStatusBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\MachineStatus\\MachineStatusBL\\MachineStatusBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MachineStatus\\MachineStatusBL\\MachineStatusBL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\MachineStatus\\MachineStatusBL\\MachineStatusBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:15:38.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MachineStatusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\MachineStatusViewModel.cs",
+              "RelativeDocumentMoniker": "MachineStatusViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\MachineStatusViewModel.cs",
+              "RelativeToolTip": "MachineStatusViewModel.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:01:02.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\StatusConverter.cs",
+              "RelativeDocumentMoniker": "StatusConverter.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\temp\\MachineStatus\\MachineStatusApp\\StatusConverter.cs",
+              "RelativeToolTip": "StatusConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:34:48.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MachineStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MachineStatus\\MachineStatusDAL\\Models\\MachineStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\MachineStatus\\MachineStatusDAL\\Models\\MachineStatus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MachineStatus\\MachineStatusDAL\\Models\\MachineStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\MachineStatus\\MachineStatusDAL\\Models\\MachineStatus.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:19:55.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

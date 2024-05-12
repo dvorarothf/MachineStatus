@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\bin\Debug\MachineStatusDAL.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\bin\Debug\MachineStatusDAL.pdb
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\obj\Debug\MachineStatusDAL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\obj\Debug\MachineStatusDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\obj\Debug\MachineS.7541F8EE.Up2Date
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\obj\Debug\MachineStatusDAL.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusDAL\obj\Debug\MachineStatusDAL.pdb

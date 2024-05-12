@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\bin\Debug\MachineStatusBL.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\bin\Debug\MachineStatusBL.pdb
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\bin\Debug\MachineStatusDAL.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\bin\Debug\MachineStatusDAL.pdb
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\obj\Debug\MachineStatusBL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\obj\Debug\MachineStatusBL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\obj\Debug\MachineS.7BA19A07.Up2Date
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\obj\Debug\MachineStatusBL.dll
+C:\Users\User\Documents\GitHub\temp\MachineStatus\MachineStatusBL\obj\Debug\MachineStatusBL.pdb
